@@ -34265,6 +34265,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-text-1 {
+  font-size: 0.875rem;
   margin: 49px 114px 60px 89px;
 }
 
@@ -34299,11 +34300,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 225px;
+    min-height: 153px;
   }
 
   .u-footer .u-text-1 {
-    margin: 36px -13px;
+    font-size: 0.625rem;
+    margin: 37px -13px;
   }
 }
 
