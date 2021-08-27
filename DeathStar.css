@@ -119,14 +119,15 @@
   }
 
   .u-section-1 .u-image-2 {
-    height: 168px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    height: 195px;
+    width: 386px;
+    margin-top: -18px;
+    margin-left: -23px;
+    margin-right: -23px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 8px;
+    margin-top: 0;
     margin-left: 77px;
   }
 
