@@ -161,14 +161,16 @@
   }
 
   .u-section-2 .u-image-1 {
-    margin-top: 136px;
+    height: 180px;
+    margin-top: 117px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
   .u-section-2 .u-image-2 {
-    margin-top: 46px;
+    height: 237px;
+    margin-top: 48px;
     margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
@@ -267,9 +269,9 @@
     height: 312px;
     animation-duration: 1000ms;
     width: 256px;
-    margin-top: -654px;
+    margin-top: -631px;
+    margin-left: auto;
     margin-bottom: 60px;
-    margin-left: 42px;
   }
 }.u-section-4 {
   background-image: none;
