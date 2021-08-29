@@ -16,13 +16,13 @@
 .u-section-1 .u-image-2 {
   width: 664px;
   height: 335px;
-  margin: -588px auto 0 42px;
+  margin: -588px auto 0 10px;
 }
 
 .u-section-1 .u-image-3 {
   width: 297px;
   height: 81px;
-  margin: 0 auto 0 121px;
+  margin: 0 auto 0 338px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -32,7 +32,7 @@
   font-weight: 700;
   background-image: none;
   text-transform: none;
-  margin: -74px 554px 0 auto;
+  margin: -74px auto 0 592px;
   padding: 16px 55px 17px 54px;
 }
 
@@ -47,16 +47,15 @@
   .u-section-1 .u-image-2 {
     width: 308px;
     height: 156px;
-    margin-left: 134px;
+    margin-left: 56px;
   }
 
   .u-section-1 .u-image-3 {
-    margin-left: 510px;
+    margin-left: 403px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-right: 354px;
-    margin-left: 347px;
+    margin-left: 240px;
   }
 }
 
@@ -66,16 +65,15 @@
   }
 
   .u-section-1 .u-image-2 {
-    margin-left: 79px;
+    margin-left: 28px;
   }
 
   .u-section-1 .u-image-3 {
-    margin-left: 345px;
+    margin-left: 293px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-right: 134px;
-    margin-left: 183px;
+    margin-left: 131px;
   }
 
   .u-section-1 .u-image-4 {
@@ -101,12 +99,11 @@
   }
 
   .u-section-1 .u-image-3 {
-    margin-left: 197px;
+    margin-left: 158px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-right: 0;
-    margin-left: 125px;
+    margin-left: 86px;
   }
 
   .u-section-1 .u-image-4 {
@@ -117,11 +114,12 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 730px;
+    min-height: 1347px;
   }
 
   .u-section-1 .u-image-1 {
     height: 517px;
+    margin-top: 72px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -130,23 +128,27 @@
   .u-section-1 .u-image-2 {
     width: 347px;
     height: 175px;
-    margin-top: -281px;
+    margin-top: 21px;
     margin-left: -4px;
   }
 
   .u-section-1 .u-image-3 {
+    margin-top: 88px;
     margin-left: 22px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-left: 77px;
+    margin-top: -148px;
+    margin-left: 79px;
     padding-left: 40px;
     padding-right: 40px;
   }
 
   .u-section-1 .u-image-4 {
-    width: 340px;
     height: 227px;
-    margin-bottom: 0;
+    margin-top: 160px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 }
