@@ -93,7 +93,6 @@
     margin-top: 20px;
     margin-right: -26px;
     margin-left: auto;
-    margin-bottom: initial;
   }
 
   .u-section-1 .u-image-3 {
@@ -121,7 +120,9 @@
   .u-section-1 .u-image-2 {
     width: 347px;
     height: 175px;
-    margin: 21px 0 0 -4px;
+    margin-top: 21px;
+    margin-right: 0;
+    margin-left: -4px;
   }
 
   .u-section-1 .u-image-3 {
